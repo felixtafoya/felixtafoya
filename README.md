@@ -1,6 +1,5 @@
 # <a href="https://www.linkedin.com/in/felixtafoya/">Felix Tafoya</a>'s IT and Cybersecurity Project Portfolio 🔐
-
-I build and improve secure, reliable systems that organizations depend on. This portfolio highlights practical work across infrastructure, security operations, and risk management.
+I build and improve secure, reliable systems that organizations depend on every day. The work here reflects hands on experience across infrastructure, security operations, and protecting critical environments.
 
 
 ## ⚠️ Vulnerability Management Projects
